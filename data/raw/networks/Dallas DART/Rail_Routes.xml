@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?><MD_Metadata xmlns:gts="http://www.isotc211.org/2005/gts" xmlns:gco="http://www.isotc211.org/2005/gco" xmlns:xalan="http://xml.apache.org/xalan" xmlns:srv="http://www.isotc211.org/2005/srv" xmlns:gmx="http://www.isotc211.org/2005/gmx" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:gml="http://www.opengis.net/gml" xmlns="http://www.isotc211.org/2005/gmd">
+    <characterSet>
+        <MD_CharacterSetCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_CharacterSetCode" codeListValue="utf8" codeSpace="ISOTC211/19115">utf8</MD_CharacterSetCode>
+    </characterSet>
+    <hierarchyLevel>
+        <MD_ScopeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_ScopeCode" codeListValue="dataset" codeSpace="ISOTC211/19115">dataset</MD_ScopeCode>
+    </hierarchyLevel>
+    <hierarchyLevelName>
+        <gco:CharacterString>dataset</gco:CharacterString>
+    </hierarchyLevelName>
+    <contact gco:nilReason="missing"/>
+    <dateStamp gco:nilReason="missing"/>
+    <metadataStandardName>
+        <gco:CharacterString>ISO 19139 Geographic Information - Metadata - Implementation Specification</gco:CharacterString>
+    </metadataStandardName>
+    <metadataStandardVersion>
+        <gco:CharacterString>2007</gco:CharacterString>
+    </metadataStandardVersion>
+    <identificationInfo>
+        <MD_DataIdentification>
+            <citation>
+                <CI_Citation>
+                    <title>
+                        <gco:CharacterString>bus_rail</gco:CharacterString>
+                    </title>
+                    <date gco:nilReason="missing"/>
+                </CI_Citation>
+            </citation>
+            <abstract>
+                <gco:CharacterString>Rail routes and stops from Dallas Area Rapid Transit (DART), processed from GTFS format.
+https://developers.google.com/transit/gtfs/reference/
+https://www.dart.org/transitdata/latest/</gco:CharacterString>
+            </abstract>
+            <purpose>
+                <gco:CharacterString>Rail routes and stops from Dallas Area Rapid Transit (DART), processed from GTFS format.</gco:CharacterString>
+            </purpose>
+            <credit>
+                <gco:CharacterString>Dallas Area Rapid Transit (DART)</gco:CharacterString>
+            </credit>
+            <descriptiveKeywords>
+                <MD_Keywords>
+                    <keyword>
+                        <gco:CharacterString>dallas</gco:CharacterString>
+                    </keyword>
+                    <keyword>
+                        <gco:CharacterString>area</gco:CharacterString>
+                    </keyword>
+                    <keyword>
+                        <gco:CharacterString>rapid</gco:CharacterString>
+                    </keyword>
+                    <keyword>
+                        <gco:CharacterString>transit</gco:CharacterString>
+                    </keyword>
+                    <keyword>
+                        <gco:CharacterString>dart</gco:CharacterString>
+                    </keyword>
+                    <keyword>
+                        <gco:CharacterString>rail</gco:CharacterString>
+                    </keyword>
+                    <keyword>
+                        <gco:CharacterString>route</gco:CharacterString>
+                    </keyword>
+                    <keyword>
+                        <gco:CharacterString>stop</gco:CharacterString>
+                    </keyword>
+                    <keyword>
+                        <gco:CharacterString>gtfs</gco:CharacterString>
+                    </keyword>
+                </MD_Keywords>
+            </descriptiveKeywords>
+            <resourceConstraints>
+                <MD_Constraints>
+                    <useLimitation>
+                        <gco:CharacterString>
+
+The accuracy is not to be taken / used as data produced by a
+Registered Professional Land Surveyor for the State of Texas. For this level of
+detail, supervision, and certification of the produced data by a Registered
+Land Surveyor for the State of Texas would be required. "This product is
+for informational purposes and may not have been prepared for or be suitable
+for legal, engineering, or surveying purposes. It does not represent an
+on-the-ground survey and represents only the approximate relative location of
+property boundaries. (Texas
+Government Code § 2051.10).</gco:CharacterString>
+                    </useLimitation>
+                </MD_Constraints>
+            </resourceConstraints>
+            <language gco:nilReason="missing"/>
+            <characterSet>
+                <MD_CharacterSetCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_CharacterSetCode" codeListValue="utf8" codeSpace="ISOTC211/19115">utf8</MD_CharacterSetCode>
+            </characterSet>
+        </MD_DataIdentification>
+    </identificationInfo>
+</MD_Metadata>

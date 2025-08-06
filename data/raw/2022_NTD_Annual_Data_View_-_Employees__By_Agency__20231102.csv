@@ -1,0 +1,364 @@
+﻿Agency,NTD ID,Total Hours,Total Operating Hours,Total Employees,Total Salaries,AvgWageRate,Questionable Record,count_vehicle_operations_hours_q,count_vehicle_maintenance_hours_q,count_facility_maintenance_hours_q,count_general_administration_hours_q,count_capital_labor_hours_q,count_total_employee_hours_q,count_vehicle_operations_count_q,count_vehicle_maintenance_count_q,count_facility_maintenance_count_q,count_general_administration_count_q,count_capital_labor_count_q,count_total_employee_count_q,City,State,UZA Name,Primary UZA Population,Agency VOMS,Mode VOMS
+MTA New York City Transit,20008,"89,646,297","79,401,206","45,802","3,363,016,755",42.35,Y,0,0,0,0,0,0,0,0,0,0,0,0,Brooklyn,NY,"New York--Jersey City--Newark, NY--NJ","19,426,449","10,019","5,410"
+New Jersey Transit Corporation,20080,"22,089,474","21,149,972","11,452","845,558,032",39.98,Y,0,0,0,0,0,0,0,0,0,0,0,0,Newark,NJ,"New York--Jersey City--Newark, NY--NJ","19,426,449","3,289","1,779"
+Washington Metropolitan Area Transit Authority,30030,"21,813,449","18,010,252","13,214.21","928,193,315",51.54,Y,0,0,0,0,0,0,0,0,0,0,0,0,Washington,DC,"Washington--Arlington, DC--VA--MD","5,174,759","2,807","1,096"
+"Los Angeles County Metropolitan Transportation Authority , dba: Metro",90154,"17,905,536","17,905,536","10,192","615,085,059",34.35,Y,0,0,0,0,0,0,0,0,0,0,0,0,Los Angeles,CA,"Los Angeles--Long Beach--Anaheim, CA","12,237,376","2,509","1,421"
+Chicago Transit Authority,50066,"18,534,134","16,960,103","9,790","627,749,519",37.01,Y,0,0,0,0,0,0,0,0,0,0,0,0,Chicago,IL,"Chicago, IL--IN","8,671,746","2,180","1,274"
+Southeastern Pennsylvania Transportation Authority,30019,"17,645,768","16,150,639","8,954","568,457,208",35.20,Y,0,0,0,0,0,0,0,0,0,0,0,0,Philadelphia,PA,"Philadelphia, PA--NJ--DE--MD","5,696,125","1,962","1,089"
+Massachusetts Bay Transportation Authority,10003,"13,908,645","13,781,263","7,077","458,429,864",33.26,Y,1,1,1,1,1,3,0,0,1,1,0,1,Boston,MA,"Boston, MA--NH","4,382,009","2,018",653
+"Metro-North Commuter Railroad Company, dba: MTA Metro-North Railroad",20078,"13,792,105","12,999,670","6,409","498,649,719",38.36,Y,0,0,0,0,0,0,0,0,0,0,0,0,New York,NY,"New York--Jersey City--Newark, NY--NJ","19,426,449","1,149","1,138"
+MTA Long Island Rail Road,20100,"15,182,811","12,570,926","7,535","614,280,138",48.87,Y,0,0,0,0,0,0,0,0,0,0,0,0,Jamaica,NY,"New York--Jersey City--Newark, NY--NJ","19,426,449",908,908
+MTA Bus Company,20188,"7,892,430","7,869,894","3,943","319,478,627",40.60,Y,0,0,0,0,0,0,0,0,0,0,0,0,New York,NY,"New York--Jersey City--Newark, NY--NJ","19,426,449","1,134","1,134"
+Metropolitan Atlanta Rapid Transit Authority,40022,"7,767,534","7,520,724","4,204","214,043,125",28.46,Y,0,0,0,0,0,0,0,0,0,0,0,0,Atlanta,GA,"Atlanta, GA","5,100,112",812,407
+"City and County of San Francisco, dba: San Francisco Municipal Transportation Agency",90015,"7,297,632","7,297,632","4,282.08","363,556,465",49.82,Y,0,0,0,0,0,0,0,0,0,0,0,0,San Francisco,CA,"San Francisco--Oakland, CA","3,515,933",752,349
+"King County Department of Metro Transit, dba: King County Metro",00001,"7,525,521","7,296,493","4,036.58","308,414,705",42.27,Y,0,0,0,0,0,0,0,0,0,0,0,0,Seattle,WA,"Seattle--Tacoma, WA","3,544,011","2,029",793
+"Metropolitan Transit Authority of Harris County, Texas",60008,"6,851,596","6,809,475","3,713.46","230,768,219",33.89,Y,0,0,0,0,0,0,0,0,0,0,0,0,Houston,TX,"Houston, TX","5,853,575","1,328",450
+Dallas Area Rapid Transit,60056,"6,439,997","6,428,020","3,199","229,319,317",35.67,Y,0,0,0,0,0,0,0,0,0,0,0,0,Dallas,TX,"Dallas--Fort Worth--Arlington, TX","5,732,354",800,453
+Metro Transit,50027,"6,375,296","6,153,266","3,108","191,028,547",31.05,Y,0,0,0,0,0,0,0,0,0,0,0,0,Minneapolis,MN,"Minneapolis--St. Paul, MN","2,914,866",507,440
+San Francisco Bay Area Rapid Transit District,90003,"7,377,480","5,848,986","4,014.7","325,834,035",55.71,Y,0,0,0,0,0,0,0,0,0,0,0,0,Oakland,CA,"San Francisco--Oakland, CA","3,515,933",580,566
+"County of Miami-Dade , dba: Transportation & Public Work",40034,"5,874,240","5,799,773","3,465.03","240,063,751",41.39,Y,0,0,0,0,0,0,0,0,0,0,0,0,Miami,FL,"Miami--Fort Lauderdale, FL","6,077,522","1,339",612
+Port Authority of Allegheny County,30022,"5,427,559","5,378,563","2,521.01","184,058,099",34.22,Y,0,0,0,0,0,0,0,0,0,0,0,0,Pittsburgh,PA,"Pittsburgh, PA","1,745,039",823,561
+Tri-County Metropolitan Transportation District of Oregon,00008,"5,176,984","5,064,303","2,813.5","200,544,762",39.60,Y,0,0,0,0,0,0,0,0,0,0,0,0,Portland,OR,"Portland, OR--WA","2,104,238",753,498
+Maryland Transit Administration,30034,"5,102,409","5,052,758","2,425.32","184,620,397",36.54,Y,0,0,0,0,0,0,0,0,0,0,0,0,Baltimore,MD,"Baltimore, MD","2,212,038","1,486",627
+"Northeast Illinois Regional Commuter Railroad Corporation, dba: Metra",50118,"5,445,520","4,838,755","2,657","208,321,033",43.05,Y,0,0,0,0,0,0,0,0,0,0,0,0,Chicago,IL,"Chicago, IL--IN","8,671,746",889,433
+Denver Regional Transportation District,80006,"4,686,167","4,681,372","2,597.27","192,669,785",41.16,Y,0,0,0,0,0,0,0,0,0,0,0,0,Denver,CO,"Denver--Aurora, CO","2,686,147",931,286
+Utah Transit Authority,80001,"4,543,836","4,482,961","2,644.04","141,151,140",31.49,Y,0,0,0,0,0,0,0,0,0,0,0,0,Salt Lake City,UT,"Salt Lake City, UT","1,178,533","1,063",425
+The Greater Cleveland Regional Transit Authority,50015,"4,453,670","4,453,670","2,039","122,800,125",27.57,Y,0,0,0,0,0,0,0,0,0,0,0,0,Cleveland,OH,"Cleveland, OH","1,712,178",375,218
+VIA Metropolitan Transit,60011,"3,800,496","3,800,496","1,901.82","104,507,726",27.50,Y,0,0,0,0,0,0,0,0,0,0,0,0,San Antonio,TX,"San Antonio, TX","1,992,689",873,498
+Santa Clara Valley Transportation Authority,90013,"4,063,951","3,710,745","2,204","165,952,625",44.72,Y,0,0,0,0,0,0,0,0,0,0,0,0,San Jose,CA,"San Jose, CA","1,837,446",496,333
+Alameda-Contra Costa Transit District,90014,"3,503,329","3,503,329","2,119","156,266,263",44.61,Y,0,0,0,0,0,0,0,0,0,0,0,0,Oakland,CA,"San Francisco--Oakland, CA","3,515,933",546,359
+"Bi-State Development Agency of the Missouri-Illinois Metropolitan District, dba: (St. Louis) Metro",70006,"3,488,880","3,471,141","1,902.11","103,545,406",29.83,Y,0,0,0,0,0,0,0,0,0,0,0,0,Saint Louis,MO,"St. Louis, MO--IL","2,156,323",465,321
+Washington State Ferries,00035,"3,228,109","3,017,298","1,936","117,953,701",39.09,Y,0,0,0,0,0,0,0,0,0,0,0,0,Olympia,WA,"Seattle--Tacoma, WA","3,544,011",17,17
+Pace - Suburban Bus Division,50113,"2,875,177","2,869,406","1,527.8","97,413,745",33.95,Y,0,0,0,0,0,0,0,0,0,0,0,0,Arlington Heights,IL,"Chicago, IL--IN","8,671,746","1,012",478
+Central Florida Regional Transportation Authority,40035,"2,783,212","2,783,212","1,335","58,140,278",20.89,Y,0,0,0,0,0,0,0,0,0,0,0,0,Orlando,FL,"Orlando, FL","1,853,896",550,240
+"Central Puget Sound Regional Transit Authority, dba: Sound Transit",00040,"3,739,880","2,615,647","2,024.25","126,231,022",48.26,Y,0,0,0,0,0,0,0,0,0,0,0,0,Seattle,WA,"Seattle--Tacoma, WA","3,544,011",321,143
+San Diego Metropolitan Transit System,90026,"2,426,643","2,357,320","1,305","71,512,172",30.34,Y,0,0,0,0,0,0,0,0,0,0,0,0,San Diego,CA,"San Diego, CA","3,070,300",728,220
+"Broward County Board of County Commissioners, dba: Broward County Transit Division",40029,"2,341,863","2,341,863","1,141","72,045,049",30.76,Y,0,0,0,0,0,0,0,0,0,0,0,0,Fort Lauderdale,FL,"Miami--Fort Lauderdale, FL","6,077,522",509,278
+"Sacramento Regional Transit District, dba: Sacramento RT",90019,"2,308,662","2,302,194","1,178.71","78,156,840",33.95,Y,0,0,0,0,0,0,0,0,0,0,0,0,Sacramento,CA,"Sacramento, CA","1,946,618",367,204
+Port Authority Trans-Hudson Corporation,20098,"2,272,951","2,063,163","1,424","125,315,907",60.74,Y,0,0,0,0,0,0,0,0,0,0,0,0,New York,NY,"New York--Jersey City--Newark, NY--NJ","19,426,449",274,274
+"Southwest Ohio Regional Transit Authority, dba: Metro / Access",50012,"2,046,965","2,046,965","1,076","64,435,070",31.48,Y,0,0,0,0,0,0,0,0,0,0,0,0,Cincinnati,OH,"Cincinnati, OH--KY","1,686,744",321,281
+Central Ohio Transit Authority,50016,"2,001,131","2,001,131","1,111.05","69,291,410",34.63,Y,1,0,0,0,0,1,0,0,0,0,0,0,Columbus,OH,"Columbus, OH","1,567,254",274,189
+"Transportation District Commission of Hampton Roads, dba: Hampton Roads Transit",30083,"1,915,681","1,915,681","1,034.65","46,741,284",24.40,Y,0,0,1,1,0,1,0,0,0,0,0,0,Hampton,VA,"Virginia Beach--Norfolk, VA","1,451,578",348,225
+Delaware Transit Corporation,30075,"1,902,667","1,902,667",985,"49,973,523",26.26,Y,0,0,0,0,0,0,0,0,0,0,0,0,Dover,DE,"Philadelphia, PA--NJ--DE--MD","5,696,125",528,257
+Niagara Frontier Transportation Authority,20004,"1,821,986","1,821,986",938.19,"45,479,370",24.96,Y,0,0,0,0,0,0,0,0,0,0,0,0,Buffalo,NY,"Buffalo, NY","948,864",294,218
+Orange County Transportation Authority,90036,"1,782,476","1,782,476",997.37,"76,560,323",42.95,Y,0,0,0,0,0,0,0,0,0,0,0,0,Orange,CA,"Los Angeles--Long Beach--Anaheim, CA","12,237,376",739,214
+"Montgomery County, Maryland, dba: Ride On, Montgomery County Transit",30051,"1,758,526","1,751,797","1,021.7","62,478,899",35.67,Y,0,0,0,0,0,0,0,0,0,0,0,0,Rockville,MD,"Washington--Arlington, DC--VA--MD","5,174,759",288,285
+New Orleans Regional Transit Authority,60032,"1,741,239","1,716,760",810.99,"57,826,776",33.68,Y,0,0,0,0,0,0,0,0,0,0,0,0,New Orleans,LA,"New Orleans, LA","963,212",161,95
+Connecticut Department of Transportation - CTTRANSIT - Hartford Division,10048,"1,708,276","1,708,276",762,"60,751,744",35.56,Y,0,0,0,0,0,0,0,0,0,0,0,0,Hartford,CT,"Hartford, CT","977,158",229,220
+Hillsborough Area Regional Transit Authority,40041,"1,694,608","1,666,154",778,"42,746,051",25.66,Y,0,0,0,0,0,0,0,0,0,0,0,0,Tampa,FL,"Tampa--St. Petersburg, FL","2,783,045",174,99
+Suburban Mobility Authority for Regional Transportation,50031,"1,613,593","1,613,593",765,"47,313,940",29.32,Y,0,0,0,0,0,0,0,0,0,0,0,0,Detroit,MI,"Detroit, MI","3,776,890",269,155
+Capital District Transportation Authority,20002,"1,609,929","1,609,929",902,"44,851,615",27.86,Y,0,0,0,0,0,0,0,0,0,0,0,0,Albany,NY,"Albany--Schenectady, NY","593,142",323,217
+Rhode Island Public Transit Authority,10001,"1,535,914","1,535,914",805,"51,747,997",33.69,Y,0,0,0,0,0,0,0,0,0,0,0,0,Providence,RI,"Providence, RI--MA","1,285,806",286,203
+Pinellas Suncoast Transit Authority,40027,"1,380,394","1,375,701",671,"35,621,556",25.89,Y,0,0,0,0,0,0,0,0,0,0,0,0,Saint Petersburg,FL,"Tampa--St. Petersburg, FL","2,783,045",270,167
+"Regional Transit Service - Monroe County, dba: RTS Monroe (MB) and RTS Access (DR)",20113,"1,361,954","1,361,954",759,"43,309,501",31.80,Y,0,0,0,0,0,0,0,0,0,0,0,0,Rochester,NY,"Rochester, NY","704,327",240,171
+Metropolitan Transit Authority,40004,"1,353,438","1,353,438",759.03,"37,186,247",27.48,Y,0,0,0,0,0,0,0,0,0,0,0,0,Madison,TN,"Nashville-Davidson, TN","1,158,642",239,135
+Indianapolis and Marion County Public Transportation,50050,"1,334,021","1,334,021",720,"41,409,031",31.04,Y,0,0,0,0,0,0,0,0,0,0,0,0,Indianapolis,IN,"Indianapolis, IN","1,699,881",159,104
+Jacksonville Transportation Authority,40040,"1,324,099","1,324,099",736,"44,570,158",33.66,Y,0,0,0,0,0,0,0,0,0,0,0,0,Jacksonville,FL,"Jacksonville, FL","1,247,374",208,108
+Long Beach Transit,90023,"1,261,468","1,261,468",736,"41,960,764",33.26,Y,0,0,0,0,0,0,0,0,0,0,0,0,Long Beach,CA,"Los Angeles--Long Beach--Anaheim, CA","12,237,376",144,136
+Kansas City Area Transportation Authority,70005,"1,261,339","1,259,357",666,"38,730,083",30.75,Y,0,0,0,0,0,0,0,0,0,0,0,0,Kansas City,MO,"Kansas City, MO--KS","1,674,218",212,100
+"City of Detroit , dba: Detroit Department of Transportation",50119,"1,222,082","1,222,082",691,"35,726,432",29.23,Y,0,0,0,0,0,0,0,0,0,0,0,0,Detroit,MI,"Detroit, MI","3,776,890",206,152
+Snohomish County Public Transportation Benefit Area Corporation,00029,"1,252,417","1,218,956",721.15,"56,062,642",45.99,Y,0,0,0,0,0,0,0,0,0,0,0,0,Everett,WA,"Seattle--Tacoma, WA","3,544,011",481,242
+New York City Department of Transportation,20082,"1,195,408","1,172,963",606,"58,286,422",49.69,Y,0,0,0,0,0,0,0,0,0,0,0,0,New York,NY,"New York--Jersey City--Newark, NY--NJ","19,426,449",13,4
+Spokane Transit Authority,00002,"1,175,155","1,164,839",772.01,"39,536,849",33.94,Y,0,0,0,0,0,0,0,0,0,0,0,0,Spokane,WA,"Spokane, WA","447,279",279,127
+San Mateo County Transit District,90009,"1,155,639","1,133,962",731,"52,162,045",46.00,Y,0,0,0,0,0,0,0,0,0,0,0,0,San Carlos,CA,"San Francisco--Oakland, CA","3,515,933",312,157
+Transit Authority of River City,40018,"1,129,735","1,129,735",570,"30,701,505",27.18,Y,0,0,0,0,0,0,0,0,0,0,0,0,Louisville,KY,"Louisville/Jefferson County, KY--IN","974,397",300,198
+Mass Transportation Authority,50032,"1,085,452","1,077,518",592.5,"21,663,009",20.10,Y,0,0,0,0,0,0,0,0,0,0,0,0,Flint,MI,"Flint, MI","298,964",245,152
+"Woods Hole, Martha's Vineyard and Nantucket Steamship Authority",10183,"1,076,032","1,073,476",746.5,"38,133,942",35.52,Y,0,0,0,0,0,0,0,0,0,0,0,0,Falmouth,MA,"Barnstable Town, MA","303,269",22,14
+"Fort Worth Transportation Authority, dba: Trinity Metro",60007,"1,069,936","1,069,936",535.54,"33,279,301",31.10,Y,0,0,0,0,0,0,0,0,0,0,0,0,Fort Worth,TX,"Dallas--Fort Worth--Arlington, TX","5,732,354",392,120
+"City of El Paso, dba: Sun Metro",60006,"1,065,030","1,065,030",515,"19,019,539",17.86,Y,0,0,0,0,0,0,0,0,0,0,0,0,El Paso,TX,"El Paso, TX--NM","854,584",167,102
+Metropolitan Bus Authority,40086,"1,017,265","1,017,265",556,"17,610,749",17.31,Y,0,0,0,0,0,0,0,0,0,0,0,0,San Juan,PR,"San Juan, PR","1,844,410",107,81
+"Central New York Regional Transportation Authority, dba: New York Regional Transportation Authority",20018,"982,033","982,033",503,"27,463,564",27.97,Y,0,0,0,0,0,0,0,0,0,0,0,0,Syracuse,NY,"Syracuse, NY","413,660",214,161
+Pierce County Transportation Benefit Area Authority,00003,"979,603","979,603",529.55,"37,482,453",38.26,Y,0,0,0,0,0,0,0,0,0,0,0,0,Lakewood,WA,"Seattle--Tacoma, WA","3,544,011",382,214
+"Board of County Commissioners, Palm Beach County, dba: Palm Tran, Inc.",40037,"979,302","979,302",505,"31,318,536",31.98,Y,0,0,0,0,0,0,0,0,0,0,0,0,West Palm Beach,FL,"Miami--Fort Lauderdale, FL","6,077,522",359,116
+Greater Dayton Regional Transit Authority,50017,"982,707","973,473",497.8,"27,135,292",27.87,Y,0,0,0,0,0,0,0,0,0,0,0,0,Dayton,OH,"Dayton, OH","674,046",123,60
+"City of Albuquerque, dba: ABQRIDE",60019,"926,142","926,142",407.32,"21,805,888",23.54,Y,0,0,0,0,0,0,0,0,0,0,0,0,Albuquerque,NM,"Albuquerque, NM","769,837",154,87
+"City of Memphis, dba: Memphis Area Transit Authority",40003,"926,120","926,120",506,"24,184,826",26.11,Y,0,0,0,0,0,0,0,0,0,0,0,0,Memphis,TN,"Memphis, TN--MS--AR","1,056,190",137,79
+"Golden Gate Bridge, Highway and Transportation District",90016,"881,145","881,145",747,"31,478,315",35.72,Y,0,0,0,0,0,0,0,0,0,0,0,0,San Francisco,CA,"San Francisco--Oakland, CA","3,515,933",59,42
+Greater Richmond Transit Company,30006,"832,537","832,537",441,"24,685,125",29.65,Y,0,0,0,0,0,0,0,0,0,0,0,0,Richmond,VA,"Richmond, VA","1,059,150",236,113
+Connecticut Department of Transportation - CTTRANSIT New Haven Division,10055,"831,674","831,674",387,"25,655,279",30.85,Y,0,0,0,0,0,0,0,0,0,0,0,0,Hartford,CT,"New Haven, CT","561,456",99,99
+METRO Regional Transit Authority,50010,"813,561","813,561",387.61,"24,642,132",30.29,Y,0,0,0,0,0,0,0,0,0,0,0,0,Akron,OH,"Akron, OH","541,879",182,97
+Omnitrans,90029,"811,831","811,831",482,"27,413,652",33.77,Y,0,0,0,0,0,0,0,0,0,0,0,0,San Bernardino,CA,"Riverside--San Bernardino, CA","2,276,703",143,99
+Clark County Public Transportation Benefit Area Authority,00024,"773,752","773,752",435.17,"27,111,581",35.04,Y,0,0,0,0,0,0,0,0,0,0,0,0,Vancouver,WA,"Portland, OR--WA","2,104,238",159,95
+"City of Santa Monica, dba: Big Blue Bus",90008,"758,474","758,273",416.18,"25,842,525",34.08,Y,0,0,0,0,0,0,0,0,0,0,0,0,Santa Monica,CA,"Los Angeles--Long Beach--Anaheim, CA","12,237,376",143,124
+Riverside Transit Agency,90031,"747,966","747,966",412,"24,690,067",33.01,Y,0,0,0,0,0,0,0,0,0,0,0,0,Riverside,CA,"Riverside--San Bernardino, CA","2,276,703",186,79
+"City of Fresno, dba: Fresno Area Express",90027,"746,592","737,230",407,"22,317,424",30.27,Y,0,0,0,0,0,0,0,0,0,0,0,0,Fresno,CA,"Fresno, CA","717,589",145,105
+City of Madison,50005,"736,496","736,496",452.5,"25,289,969",34.34,Y,0,0,0,0,0,0,0,0,0,0,0,0,Madison,WI,"Madison, WI","450,305",181,154
+"Interurban Transit Partnership, dba: The Rapid",50033,"719,206","719,206",334.55,"18,205,474",25.31,Y,0,0,0,0,0,0,0,0,0,0,0,0,Grand Rapids,MI,"Grand Rapids, MI","605,666",185,99
+Intercity Transit,00019,"717,966","717,966",421.99,"24,945,781",34.75,Y,0,0,0,0,0,0,0,0,0,0,0,0,Olympia,WA,"Olympia--Lacey, WA","208,157",240,147
+Northern Indiana Commuter Transportation District,50104,"793,041","693,778",409.5,"18,587,459",26.79,Y,0,0,0,0,0,0,0,0,0,0,0,0,Chesterton,IN,"Chicago, IL--IN","8,671,746",70,70
+Kitsap Transit,00020,"677,983","670,904",492.07,"24,851,136",37.04,Y,0,0,0,0,0,0,0,0,0,0,0,0,Bremerton,WA,"Bremerton, WA","224,449",218,92
+"City of Charlotte North Carolina, dba: Charlotte Area Transit System",40008,"669,661","669,661",379.26,"27,450,459",40.99,Y,0,0,0,0,0,0,0,0,0,0,0,0,Charlotte,NC,"Charlotte, NC--SC","1,379,873",289,56
+"Staten Island Rapid Transit Operating Authority, dba:  MTA Staten Island Railway",20099,"664,950","664,950",349,"29,351,435",44.14,Y,0,0,0,0,0,0,0,0,0,0,0,0,Staten Island,NY,"New York--Jersey City--Newark, NY--NJ","19,426,449",44,44
+Capital Area Transportation Authority,50036,"658,177","658,177",373.8,"19,835,124",30.14,Y,0,0,0,0,0,0,0,0,0,0,0,0,Lansing,MI,"Lansing, MI","318,300",163,87
+Ben Franklin Transit,00018,"622,551","622,551",360.98,"20,461,433",32.87,Y,2,0,0,0,0,2,0,0,0,0,0,0,Richland,WA,"Kennewick--Richland--Pasco, WA","255,401",268,117
+SunLine Transit Agency,90079,"611,287","611,287",330,"15,939,467",26.08,Y,0,0,0,0,0,0,0,0,0,0,0,0,Thousand Palms,CA,"Indio--Palm Desert--Palm Springs, CA","361,075",95,60
+"City of Knoxville, dba: Knoxville Area Transit",40002,"599,611","599,611",264.19,"10,692,881",17.83,Y,0,0,0,0,0,0,0,0,0,0,0,0,Knoxville,TN,"Knoxville, TN","597,257",71,51
+Champaign-Urbana Mass Transit District,50060,"597,031","597,031",359.08,"17,094,699",28.63,Y,0,0,0,0,0,0,0,0,0,0,0,0,Urbana,IL,"Champaign, IL","147,452",105,91
+"County of Volusia, dba: VOTRAN",40032,"584,698","584,698",330,"10,248,414",17.53,Y,0,0,0,0,0,0,0,0,0,0,0,0,Daytona Beach,FL,"Daytona Beach--Palm Coast--Port Orange, FL","402,126",147,62
+Port Authority Transit Corporation,20075,"622,488","581,617",350,"22,858,613",39.30,Y,0,0,0,0,0,0,0,0,0,0,0,0,Camden,NJ,"Philadelphia, PA--NJ--DE--MD","5,696,125",60,60
+Golden Empire Transit District,90004,"577,871","577,871",311,"16,073,849",27.82,Y,0,0,0,0,0,0,0,0,0,0,0,0,Bakersfield,CA,"Bakersfield, CA","570,235",91,61
+Lane Transit District,00007,"562,348","559,297",312.02,"16,949,682",30.31,Y,0,0,0,0,0,0,0,0,0,0,0,0,Eugene,OR,"Eugene, OR","270,179",120,52
+Des Moines Area Regional Transit Authority,70010,"554,442","554,442",295.56,"16,665,469",30.06,Y,0,0,0,0,0,0,0,0,0,0,0,0,Des Moines,IA,"Des Moines, IA","542,486",152,81
+"Lee County Transit, dba: LeeTran",40028,"550,685","550,685",402.38,"11,326,931",20.57,Y,0,0,0,0,0,0,0,0,0,0,0,0,Fort Myers,FL,"Cape Coral, FL","599,242",91,46
+Transit Authority of Omaha,70002,"544,410","544,410",279,"15,430,138",28.34,Y,0,0,0,0,0,0,0,0,0,0,0,0,Omaha,NE,"Omaha, NE--IA","819,508",100,75
+Capital Area Transit System,60022,"536,653","536,653",296,"12,862,411",23.97,Y,0,0,1,1,0,1,0,0,0,0,0,0,Baton Rouge,LA,"Baton Rouge, LA","631,326",66,44
+Lehigh and Northampton Transportation Authority,30010,"517,313","517,313",243,"15,157,533",29.30,Y,0,0,0,0,0,0,0,0,0,0,0,0,Allentown,PA,"Allentown--Bethlehem, PA--NJ","621,703",118,71
+Santa Cruz Metropolitan Transit District,90006,"510,521","510,521",277,"19,003,687",37.22,Y,0,0,0,0,0,0,0,0,0,0,0,0,Santa Cruz,CA,"Santa Cruz, CA","169,038",86,51
+Transit Authority of Northern Kentucky,40019,"500,272","500,272",269,"12,555,553",25.10,Y,0,0,0,0,0,0,0,0,0,0,0,0,Covington,KY,"Cincinnati, OH--KY","1,686,744",121,90
+"City of Gainesville, FL, dba: Regional Transit System",40030,"498,624","498,624",278,"12,261,356",24.59,Y,0,0,0,0,0,0,0,0,0,0,0,0,Gainesville,FL,"Gainesville, FL","213,748",142,99
+Toledo Area Regional Transit Authority,50022,"497,850","494,296",292,"12,884,938",26.07,Y,0,0,0,0,0,0,0,0,0,0,0,0,Toledo,OH,"Toledo, OH--MI","497,952",126,41
+Whatcom Transportation Authority,00021,"493,156","493,156",288,"21,626,779",43.85,Y,0,0,0,0,0,0,0,0,0,0,0,0,Bellingham,WA,"Bellingham, WA","128,979",96,47
+"Central Oklahoma Transportation and Parking Authority, dba: EMBARK",60017,"488,959","488,959",256,"13,228,650",27.05,Y,0,0,0,0,0,0,0,0,0,0,0,0,Oklahoma City,OK,"Oklahoma City, OK","982,276",72,49
+City of Alexandria,30071,"485,106","485,106",288,"16,342,815",33.69,Y,0,0,0,0,0,0,0,0,0,0,0,0,Alexandria,VA,"Washington--Arlington, DC--VA--MD","5,174,759",94,75
+Birmingham-Jefferson County Transit Authority,40042,"483,439","483,439",249,"12,228,561",25.29,Y,0,0,0,0,0,0,0,0,0,0,0,0,Birmingham,AL,"Birmingham, AL","774,956",94,70
+Alaska Railroad Corporation,00041,"629,434","465,551",307.5,"19,007,284",40.83,Y,0,0,0,0,0,0,0,0,0,0,0,0,Anchorage,AK,"Anchorage, AK","249,252",60,60
+South Central Transit Authority,30202,"466,664","462,896",237.9,"12,820,014",27.70,Y,0,0,0,0,0,0,0,0,0,0,0,0,Lancaster,PA,"Lancaster--Manheim, PA","394,530",163,75
+Central Pennsylvania Transportation Authority,30027,"461,839","461,839",136,"9,224,151",19.97,Y,0,0,0,0,0,0,0,0,0,0,0,0,York,PA,"York, PA","238,549",352,158
+Chatham Area Transit Authority,40025,"461,906","461,301",302.82,"10,727,255",23.25,Y,0,0,0,0,0,0,0,0,0,0,0,0,Savannah,GA,"Savannah, GA","309,466",62,35
+Lakeland Area Mass Transit District,40031,"460,912","460,912",277,"8,746,339",18.98,Y,0,0,0,0,0,0,0,0,0,0,0,0,Lakeland,FL,"Lakeland, FL","277,915",71,35
+Ann Arbor Area Transportation Authority,50040,"439,303","439,303",281,"15,833,262",36.04,Y,0,0,0,0,0,0,0,0,0,0,0,0,Ann Arbor,MI,"Ann Arbor, MI","317,689",227,75
+"Corpus Christi Regional Transportation Authority, dba: The B",60051,"430,290","430,290",212.09,"11,818,194",27.47,Y,0,0,0,0,0,0,0,0,0,0,0,0,Corpus Christi,TX,"Corpus Christi, TX","339,066",117,42
+"City of Tallahassee, dba: StarMetro",40036,"423,467","423,467",207,"9,518,544",22.48,Y,0,0,0,0,0,0,0,0,0,0,0,0,Tallahassee,FL,"Tallahassee, FL","252,934",123,55
+San Joaquin Regional Transit District,90012,"421,794","421,794",231.5,"12,898,152",30.58,Y,0,0,0,0,0,0,0,0,0,0,0,0,Stockton,CA,"Stockton, CA","414,847",115,56
+"City of Montebello, dba: Montebello Bus Lines",90041,"421,672","421,672",201,"10,872,450",25.78,Y,0,0,0,0,0,0,0,0,0,0,0,0,Montebello,CA,"Los Angeles--Long Beach--Anaheim, CA","12,237,376",87,42
+"Town of Chapel Hill, dba: Chapel Hill Transit",40051,"414,319","414,319",207.94,"9,698,717",23.41,Y,0,0,0,0,0,0,0,0,0,0,0,0,Chapel Hill,NC,"Durham, NC","396,118",88,74
+"Salem Area Mass Transit District, dba: Salem-Keizer Transit or Cherriots",00025,"412,680","412,666",223.22,"13,639,622",33.05,Y,0,0,0,0,0,0,0,0,0,0,0,0,Salem,OR,"Salem, OR","268,331",149,53
+Stark Area Regional Transit Authority,50011,"412,494","412,494",229,"10,768,983",26.11,Y,0,0,0,0,0,0,0,0,0,0,0,0,Canton,OH,"Canton, OH","295,319",66,36
+Monterey-Salinas Transit,90062,"410,972","410,972",228,"15,021,706",36.55,Y,0,0,0,0,0,0,0,0,0,0,0,0,Monterey,CA,"Seaside--Monterey--Pacific Grove, CA","123,495",88,43
+Gold Coast Transit District,90035,"401,870","401,870",226,"11,841,785",29.47,Y,0,0,0,0,0,0,0,0,0,0,0,0,Oxnard,CA,"Oxnard--San Buenaventura (Ventura), CA","376,117",71,49
+"Central Contra Costa Transit Authority, dba: COUNTY CONNECTION",90078,"400,329","400,329",218,"14,151,000",35.35,Y,0,0,0,0,0,0,0,0,0,0,0,0,Concord,CA,"Concord--Walnut Creek, CA","538,583",118,78
+Metropolitan Tulsa Transit Authority,60018,"395,041","395,041",194,"8,464,525",21.43,Y,0,0,0,0,0,0,0,0,0,0,0,0,Tulsa,OK,"Tulsa, OK","722,810",78,41
+Laketran,50117,"389,854","389,854",256.75,"9,090,731",23.32,Y,0,0,0,0,0,0,0,0,0,0,0,0,Painesville,OH,"Cleveland, OH","1,712,178",96,64
+"Municipality of Anchorage, dba: Public Transportation",00012,"387,871","386,896",211,"14,440,410",37.32,Y,0,0,0,0,0,0,0,0,0,0,0,0,Anchorage,AK,"Anchorage, AK","249,252",168,47
+Rides Mass Transit District,50211,"378,938","378,938",204,"7,542,005",19.90,Y,0,0,0,0,0,0,0,0,0,0,0,0,Harrisburg,IL,Illinois Non-UZA,"2,638,201",116,116
+"Research Triangle Regional Public Transportation Authority, dba: GoTriangle",40108,"378,594","378,594",214.1,"11,895,814",31.42,Y,0,0,0,0,0,0,0,0,0,0,0,0,Durham,NC,"Durham, NC","396,118",80,40
+"Port Imperial Ferry Corporation, dba: NY Waterway",20190,"376,080","376,080",244,"10,551,806",28.06,Y,0,1,0,0,0,1,0,0,0,0,0,0,Weehawken,NJ,"New York--Jersey City--Newark, NY--NJ","19,426,449",36,18
+"Lexington Transit Authority, dba: Lextran",40017,"375,123","375,123",203,"10,621,253",28.31,Y,0,0,0,0,0,0,0,0,0,0,0,0,Lexington,KY,"Lexington-Fayette, KY","315,631",95,49
+"City of Winston Salem, dba: Winston-Salem Transit Authority",40012,"366,361","366,361",206,"8,430,839",23.01,Y,0,0,0,0,0,0,0,0,0,0,0,0,Winston Salem,NC,"Winston-Salem, NC","420,924",58,30
+Santa Barbara Metropolitan Transit District,90020,"365,113","364,550",186,"11,746,757",32.22,Y,0,0,0,0,0,0,0,0,0,0,0,0,Santa Barbara,CA,"Santa Barbara, CA","202,197",80,80
+Erie Metropolitan Transit Authority,30013,"362,007","362,007",188.5,"10,025,960",27.70,Y,0,0,0,0,0,0,0,0,0,0,0,0,Erie,PA,"Erie, PA","187,820",78,45
+Rock Region Metropolitan Transit Authority,60033,"362,689","360,850",205.29,"10,027,343",27.79,Y,0,0,0,0,0,0,0,0,0,0,0,0,North Little Rock,AR,"Little Rock, AR","461,864",83,34
+Chattanooga Area Regional Transportation Authority,40001,"357,099","355,374",200.08,"9,849,136",27.71,Y,0,0,0,0,0,0,0,0,0,0,0,0,Chattanooga,TN,"Chattanooga, TN--GA","398,569",86,64
+Worcester Regional Transit Authority,10014,"344,931","344,931",187.19,"12,049,013",34.93,Y,0,0,0,0,0,0,0,0,0,0,0,0,Worcester,MA,"Worcester, MA--CT","482,085",99,47
+"City of Lubbock, dba: CITIBUS",60010,"338,706","338,706",188,"5,802,170",17.13,Y,0,0,0,0,0,0,0,0,0,0,0,0,Lubbock,TX,"Lubbock, TX","272,280",85,60
+"City of Shreveport, dba: Shreveport Area Transit System",60024,"334,242","334,242",170.28,"7,660,867",22.92,Y,0,0,0,0,0,0,0,0,0,0,0,0,Shreveport,LA,"Shreveport, LA","288,052",53,35
+"Hudson Transit Lines, Inc.",20126,"333,156","333,156",184,"10,024,280",30.09,Y,0,0,0,0,0,0,0,0,0,0,0,0,Mahwah,NJ,"New York--Jersey City--Newark, NY--NJ","19,426,449",74,74
+"Laredo Transit Management, Inc., dba: El Metro",60009,"330,922","330,922",177.6,"6,986,744",21.11,Y,0,0,0,0,0,0,0,0,0,0,0,0,Laredo,TX,"Laredo, TX","251,462",44,37
+"Springfield Mass Transit District, dba: Sangamon Mass Transit District",50059,"330,216","330,216",169.01,"9,201,934",27.87,Y,0,0,0,0,0,0,0,0,0,0,0,0,Springfield,IL,"Springfield, IL","159,265",63,48
+Hill Country Transit District,60091,"328,855","328,855",144,"5,628,517",17.12,Y,0,0,0,0,0,1,0,0,0,1,0,1,San Saba,TX,"Killeen, TX","257,222",69,58
+Connecticut Department of Transportation- CTTransit Waterbury- NET,10128,"325,888","325,888",148.99,"7,574,502",23.24,Y,0,0,0,0,0,0,0,0,0,0,0,0,Watertown,CT,"Waterbury, CT","199,317",63,36
+"City of Torrance, dba: Torrance Transit System",90010,"322,928","322,928",149.25,"11,539,031",35.73,Y,0,0,0,0,0,0,0,0,0,0,0,0,Torrance,CA,"Los Angeles--Long Beach--Anaheim, CA","12,237,376",74,38
+"Cumberland Dauphin-Harrisburg Transit Authority, dba: Capital Area Transit",30014,"319,082","319,082",131,"7,131,388",22.35,Y,0,0,0,0,0,0,0,0,0,0,0,0,,PA,"Harrisburg, PA","490,859",115,65
+Greater Bridgeport Transit Authority,10050,"313,557","313,557",176,"9,886,429",31.53,Y,0,0,0,0,0,0,0,0,0,0,0,0,Bridgeport,CT,"Bridgeport--Stamford, CT--NY","916,408",58,39
+Greater Peoria Mass Transit District,50056,"313,366","313,366",170,"9,868,469",31.49,Y,0,0,0,0,0,0,0,0,0,0,0,0,Peoria,IL,"Peoria, IL","259,781",77,45
+Duluth Transit Authority,50025,"313,333","313,333",209.97,"8,304,017",26.50,Y,0,0,0,0,0,0,0,0,0,0,0,0,Duluth,MN,"Duluth, MN--WI","119,411",61,54
+Green Mountain Transit Authority,10066,"312,236","311,945",165.53,"9,149,744",29.33,Y,0,0,0,0,0,0,0,0,0,0,0,0,Burlington,VT,"Burlington, VT","118,032",134,45
+"City of Culver City, dba: Culver City Municipal Bus Lines",90039,"303,438","302,778",143.66,"9,281,827",30.66,Y,0,0,0,0,0,0,0,0,0,0,0,0,Culver City,CA,"Los Angeles--Long Beach--Anaheim, CA","12,237,376",39,37
+Connecticut Department of Transportation - CTTRANSIT Stamford Division,10056,"302,502","302,502",153,"9,994,106",33.04,Y,0,0,0,0,0,0,0,0,0,0,0,0,Hartford,CT,"Bridgeport--Stamford, CT--NY","916,408",41,41
+"Manatee County Board of County Commissioners, dba: Manatee County Area Transit",40026,"295,726","295,726",143,"6,462,777",21.85,Y,0,0,0,0,0,0,0,0,0,0,0,0,Sarasota,FL,"Bradenton--Sarasota--Venice, FL","779,075",49,25
+"Hampton Jitney, Inc.",20217,"293,870","293,870",155.42,"7,649,560",26.03,Y,0,0,0,0,0,0,0,0,0,0,0,0,Calverton,NY,"New York--Jersey City--Newark, NY--NJ","19,426,449",55,55
+"Chelan Douglas PTBA , dba: Link Transit",00043,"294,206","291,707",160.13,"9,124,242",31.28,Y,0,0,0,0,0,0,0,0,0,0,0,0,Wenatchee,WA,"Wenatchee, WA","78,142",52,31
+Rock Island County Metropolitan Mass Transit District,50057,"290,825","290,825",161.85,"8,198,711",28.19,Y,0,0,0,0,0,0,0,0,0,0,0,0,Moline,IL,"Davenport, IA--IL","285,211",62,47
+Puerto Rico Maritime Transport Authority,40175,"273,713","273,713",178,"7,065,089",25.81,Y,0,0,0,0,0,0,0,0,0,0,0,0,San Juan,PR,"San Juan, PR","1,844,410",13,4
+"City of Lincoln, dba: StarTran",70001,"273,162","273,162",120.5,"7,069,800",25.88,Y,0,0,0,0,0,0,0,0,0,0,0,0,Lincoln,NE,"Lincoln, NE","291,217",73,56
+Kanawha Valley Regional Transportation Authority,30001,"272,482","272,482",141,"6,501,147",23.86,Y,0,0,0,0,0,0,0,0,0,0,0,0,Charleston,WV,"Charleston, WV","140,958",44,34
+Rockford Mass Transit District,50058,"272,225","272,225",130.86,"7,703,637",28.30,Y,0,0,0,0,0,0,0,0,0,0,0,0,Rockford,IL,"Rockford, IL","276,443",49,25
+"City of Everett, dba: EVERETT TRANSIT",00005,"271,976","271,976",155.5,"10,572,602",38.87,Y,0,0,0,0,0,0,0,0,0,0,0,0,Everett,WA,"Seattle--Tacoma, WA","3,544,011",42,27
+Luzerne County Transportation Authority,30015,"269,636","269,636",157.46,"6,922,750",25.67,Y,0,0,0,0,0,0,0,0,0,0,0,0,Kingston,PA,"Scranton, PA","366,713",62,32
+Suburban Transit Corporation,20128,"267,793","267,793",124,"7,212,445",26.93,Y,0,0,0,0,0,0,0,0,0,0,0,0,New Brunswick,NJ,"New York--Jersey City--Newark, NY--NJ","19,426,449",34,34
+"Brevard Board of County Commissioners, dba: Space Coast Area Transit",40063,"266,553","266,553",154.5,"4,893,404",18.36,Y,0,0,0,0,0,0,0,0,0,0,0,0,Titusville,FL,"Palm Bay--Melbourne, FL","510,675",86,35
+County of Lackawanna Transit System,30025,"266,277","266,277",147,"5,820,043",21.86,Y,0,0,0,0,0,0,0,0,0,0,0,0,Scranton,PA,"Scranton, PA","366,713",72,26
+"Sarasota County , dba: Sarasota County Area Transit",40046,"263,935","263,935",136.6,"6,561,965",24.86,Y,0,0,0,0,0,0,0,0,0,0,0,0,Sarasota,FL,"Bradenton--Sarasota--Venice, FL","779,075",107,30
+"Pasco County Board of County Commissioners, dba: Pasco County Public Transportation",40074,"261,739","261,739",127.88,"4,465,289",17.06,Y,0,0,0,0,0,0,0,0,0,0,0,0,New Port Richey,FL,"Tampa--St. Petersburg, FL","2,783,045",42,25
+Cape May Lewes Ferry,20223,"256,366","256,366",190,"8,388,587",32.72,Y,0,0,0,0,0,0,0,0,0,0,0,0,New Castle,DE,"Atlantic City--Ocean City--Villas, NJ","294,921",3,3
+"Hyannis Harbor Tours, Inc.",11239,"256,271","256,271",235,"6,857,054",26.76,Y,0,0,0,0,0,0,0,0,0,0,0,0,Hyannis,MA,"Barnstable Town, MA","303,269",4,4
+"City of Wichita , dba: Wichita Transit",70015,"255,967","255,967",130.8,"6,131,359",23.95,Y,0,0,0,0,0,0,0,0,0,0,0,0,Wichita,KS,"Wichita, KS","500,231",65,43
+"Greater Lafayette Public Transportation Corporation, dba: CityBus",50051,"255,201","254,352",140,"6,932,500",27.26,Y,0,0,0,0,0,0,0,0,0,0,0,0,Lafayette,IN,"Lafayette, IN","157,100",55,47
+Western Reserve Transit Authority,50024,"252,765","252,765",117.75,"6,578,661",26.03,Y,0,0,0,0,0,0,0,0,0,0,0,0,Youngstown,OH,"Youngstown, OH","320,901",54,38
+"St. Cloud Metropolitan Transit Commission, dba: Metro Bus",50028,"251,601","251,601",135.53,"7,096,300",28.20,Y,0,0,0,0,0,0,0,0,0,0,0,0,Saint Cloud,MN,"St. Cloud, MN","117,638",46,24
+Bloomington-Normal Public Transit System,50047,"249,349","249,349",141,"6,517,759",26.14,Y,0,0,0,0,0,0,0,0,0,0,0,0,Normal,IL,"Bloomington--Normal, IL","134,100",45,26
+"Rockland Coaches, Inc.",20149,"249,229","249,229",82,"5,536,576",22.21,Y,0,0,0,0,0,0,0,0,0,0,0,0,Westwood,NJ,"New York--Jersey City--Newark, NY--NJ","19,426,449",33,33
+"Ride Connection, Inc.",00376,"248,786","248,786",164,"5,748,449",23.11,Y,0,0,0,0,0,0,0,0,0,0,0,0,Portland,OR,"Portland, OR--WA","2,104,238",60,25
+"Westmoreland County , dba: Westmoreland County Transit Authority",30044,"248,506","248,506",132,"5,409,074",21.77,Y,0,0,0,0,0,0,0,0,0,0,0,0,Greensburg,PA,"Pittsburgh, PA","1,745,039",73,42
+"City of Gardena, dba: GTrans",90042,"246,565","246,565",152.81,"8,804,026",35.71,Y,0,0,0,0,0,0,0,0,0,0,0,0,Gardena,CA,"Los Angeles--Long Beach--Anaheim, CA","12,237,376",30,24
+Centre Area Transportation Authority,30054,"245,245","245,245",168.7,"7,099,674",28.95,Y,0,0,0,0,0,0,0,0,0,0,0,0,State College,PA,"State College, PA","83,674",88,56
+Skagit Transit,00044,"243,531","242,169",134.24,"7,725,774",31.90,Y,0,0,0,0,0,0,0,0,0,0,0,0,Burlington,WA,"Mount Vernon, WA","66,825",69,29
+Norwalk Transit District,10057,"241,514","241,514",136.54,"6,933,128",28.71,Y,0,0,0,0,0,0,0,0,0,0,0,0,Norwalk,CT,"Bridgeport--Stamford, CT--NY","916,408",57,25
+University of Michigan Parking and Transportation Services,50158,"241,150","241,150",138.6,"6,299,586",26.12,Y,0,0,0,0,0,0,0,0,0,0,0,0,Ann Arbor,MI,"Ann Arbor, MI","317,689",46,46
+South Bend Public Transportation Corporation,50052,"234,805","234,805",96,"5,671,077",24.15,Y,0,0,0,0,0,0,0,0,0,0,0,0,South Bend,IN,"South Bend, IN--MI","278,921",56,42
+Fort Wayne Public Transportation Corporation,50044,"230,712","230,712",124.4,"6,849,816",29.69,Y,0,0,0,0,0,0,0,0,0,0,0,0,Fort Wayne,IN,"Fort Wayne, IN","335,934",40,25
+Sonoma-Marin Area Rail Transit District,90299,"239,657","228,256",129,"12,240,625",53.63,Y,0,0,0,0,0,0,0,0,0,0,0,0,Petaluma,CA,"Santa Rosa, CA","297,329",10,10
+"Town of Blacksburg, dba: Blacksburg Transit",30091,"227,342","227,342",239.75,"4,963,138",21.83,Y,0,0,0,0,0,0,0,0,0,0,0,0,Blacksburg,VA,"Blacksburg--Christiansburg, VA","72,400",41,32
+Rogue Valley Transportation District,00034,"226,062","226,062",120,"5,478,247",24.23,Y,0,0,0,0,0,0,0,0,0,0,0,0,Medford,OR,"Medford, OR","171,640",45,28
+Cambria County Transit Authority,30012,"225,130","225,130",109.75,"4,894,782",21.74,Y,0,0,0,0,0,0,0,0,0,0,0,0,Johnstown,PA,"Johnstown, PA","61,521",46,32
+"City of Montgomery, dba: The M (Montgomery Area Transit System)",40044,"223,130","223,130",122,"4,695,462",21.04,Y,0,0,0,0,0,0,0,0,0,0,0,0,Montgomery,AL,"Montgomery, AL","254,348",25,19
+"SeaStreak, LLC",20226,"222,699","222,699",259,"7,414,324",33.29,Y,0,0,0,0,0,0,0,0,0,0,0,0,Atlantic Highlands,NJ,"New York--Jersey City--Newark, NY--NJ","19,426,449",7,7
+Greater Roanoke Transit Company,30007,"220,539","220,539",105,"4,091,061",18.55,Y,0,0,0,0,0,0,0,0,0,0,0,0,Roanoke,VA,"Roanoke, VA","217,312",41,24
+Tompkins Consolidated Area Transit,20145,"219,474","219,474",114,"7,522,500",34.28,Y,0,0,0,0,0,0,0,0,0,0,0,0,Ithaca,NY,"Ithaca, NY","59,102",48,31
+Greater New Haven Transit District,10049,"217,994","217,994",156,"5,412,819",24.83,Y,0,0,0,0,0,0,0,0,0,0,0,0,Hamden,CT,"New Haven, CT","561,456",51,51
+"City of Fort Collins, dba: Transfort",80011,"225,003","217,485",145.1,"5,975,386",27.47,Y,0,0,0,0,0,0,0,0,0,0,0,0,Fort Collins,CO,"Fort Collins, CO","326,332",48,28
+"Ames Transit Agency, dba: CyRide",70041,"214,432","214,432",205.4,"5,741,151",26.77,Y,0,0,0,0,0,0,0,0,0,0,0,0,Ames,IA,"Ames, IA","66,342",58,58
+"Broome County, dba: Department of Transportation/BC Transit",20003,"212,443","212,443",114.49,"5,564,608",26.19,Y,0,0,0,0,0,0,0,0,0,0,0,0,Binghamton,NY,"Binghamton, NY","155,942",50,38
+"City of Mobile, dba: THE WAVE TRANSIT SYSTEM",40043,"209,238","207,376",109,"4,467,645",21.54,Y,0,0,0,0,0,0,0,0,0,0,0,0,Mobile,AL,"Mobile, AL","321,907",37,20
+"City of Fayetteville, dba: Fayetteville Area System of Transit",40009,"207,029","207,029",111,"4,239,608",20.48,Y,0,0,0,0,0,0,0,0,0,0,0,0,Fayetteville,NC,"Fayetteville, NC","325,008",37,18
+"University of California, Davis, dba: ASUCD-Unitrans",90142,"206,902","206,902",278,"4,373,723",21.14,Y,0,0,0,0,0,0,0,0,0,0,0,0,Davis,CA,"Davis, CA","77,034",25,25
+Brazos Transit District,60059,"206,513","206,513",100,"4,747,987",22.99,Y,0,0,0,0,0,0,0,0,0,0,0,0,Bryan,TX,"College Station--Bryan, TX","206,137",65,48
+Saginaw Transit Authority Regional Service,50039,"203,049","203,049",115,"4,475,435",22.04,Y,0,0,0,0,0,0,0,0,0,0,0,0,Saginaw,MI,"Saginaw, MI","116,058",56,28
+"Ms Coast Transportation Authority, dba: Coast Transit Authority",40014,"201,598","201,598",102,"3,953,966",19.61,Y,0,0,0,0,0,0,0,0,0,0,0,0,Gulfport,MS,"Gulfport--Biloxi, MS","236,344",68,17
+Housatonic Area Regional Transit,10051,"198,102","198,102",110.5,"4,574,787",23.09,Y,0,0,0,0,0,0,0,0,0,0,0,0,Danbury,CT,"Danbury, CT--NY","171,680",43,29
+"Blue Water Area Transportation Commission, dba: Blue Water Area Transit",50148,"196,558","195,142",139.94,"4,879,477",25.00,Y,0,0,0,0,0,0,0,0,0,0,0,0,Port Huron,MI,"Port Huron, MI","82,226",207,34
+Central County Transportation Authority,50035,"197,920","194,986",115,"5,458,929",28.00,Y,0,0,0,0,0,0,0,0,0,0,0,0,Kalamazoo,MI,"Kalamazoo, MI","204,562",66,25
+Denton County Transportation Authority,60101,"193,281","193,281",97.66,"6,065,621",31.38,Y,0,0,0,0,0,0,0,0,0,0,0,0,Lewisville,TX,"Denton--Lewisville, TX","429,461",183,31
+"JAUNT, Inc.",30045,"191,597","191,597",110,"4,509,302",23.54,Y,0,0,0,0,0,0,0,0,0,0,0,0,Charlottesville,VA,"Charlottesville, VA","104,191",64,54
+Via Mobility Services,80285,"185,875","185,875",129,"5,127,445",27.59,Y,0,0,0,0,0,0,0,0,0,0,0,0,Boulder,CO,"Boulder, CO","120,828",55,55
+Greater Portland Transit District,10016,"185,820","185,820",98,"5,902,960",31.77,Y,0,0,0,0,0,0,0,0,0,0,0,0,Portland,ME,"Portland, ME","205,356",30,30
+San Luis Obispo Regional Transit Authority,90206,"184,821","184,821",110.57,"5,279,309",28.56,Y,0,0,0,0,0,0,0,0,0,0,0,0,San Luis Obispo,CA,"San Luis Obispo, CA","56,904",41,22
+First Tennessee Human Resource Agency,40950,"184,793","184,793",90.99,"2,660,363",14.40,Y,0,0,0,0,0,0,0,0,0,0,0,0,Johnson City,TN,"Johnson City, TN","128,519",49,49
+"Dutchess County, dba: Dutchess County Public Transit",20010,"184,591","184,591",97,"5,679,535",30.77,Y,0,0,0,0,0,0,0,0,0,0,0,0,Poughkeepsie,NY,"Poughkeepsie--Newburgh, NY","314,766",47,33
+"City of Brownsville , dba: Brownsville Metro",60014,"184,409","184,409",90,"2,538,546",13.77,Y,0,0,0,0,0,0,0,0,0,0,0,0,Brownsville,TX,"Brownsville, TX","216,444",24,16
+"City of Santa Fe, dba: Santa Fe Trails",60077,"184,274","184,274",93,"3,118,124",16.92,Y,0,0,0,0,0,0,0,0,0,0,0,0,,NM,"Santa Fe, NM","94,241",29,18
+"Escambia County Board of County Commissioners, FL, dba: Escambia County Area Transit Authority",40038,"181,679","181,679",87,"4,268,422",23.49,Y,0,0,0,0,0,0,0,0,0,0,0,0,Pensacola,FL,"Pensacola, FL--AL","390,172",86,45
+Lower Rio Grande Valley Development Council,60090,"175,554","175,554",93.33,"3,011,212",17.15,Y,0,0,0,0,0,0,0,0,0,0,0,0,Weslaco,TX,"McAllen, TX","779,553",35,29
+"Academy Lines, Inc.",20122,"175,007","175,007",146,"6,228,558",35.59,Y,0,0,0,0,0,0,0,0,0,0,0,0,Hoboken,NJ,"New York--Jersey City--Newark, NY--NJ","19,426,449",134,134
+"City of Norwalk , dba: Norwalk Transit System",90022,"174,641","174,641",133,"6,724,674",38.51,Y,0,0,0,0,0,0,0,0,0,0,0,0,Norwalk,CA,"Los Angeles--Long Beach--Anaheim, CA","12,237,376",31,24
+The Tri-County Council for the Lower Eastern Shore of Maryland,30096,"173,959","173,959",101,"2,716,113",15.61,Y,0,0,0,0,0,0,0,0,0,0,0,0,Salisbury,MD,"Salisbury, MD--DE","78,075",32,19
+Portage Area Regional Transportation Authority,50021,"175,581","173,761",117,"4,189,034",24.11,Y,0,0,0,0,0,0,0,0,0,0,0,0,Kent,OH,"Akron, OH","541,879",43,23
+Detroit Transportation Corporation,50141,"173,287","173,287",73,"4,887,610",28.21,Y,0,0,1,1,0,1,0,0,0,0,0,0,Detroit,MI,"Detroit, MI","3,776,890",4,4
+"City of Williamsport, dba: River Valley Transit",30026,"172,804","172,804",89,"3,884,059",22.48,Y,0,0,0,0,0,0,0,0,0,0,0,0,Williamsport,PA,"Williamsport, PA","55,344",31,27
+"Northern Arizona Intergovernmental Public Transportation Authority, dba: Mountain Line public transit",90219,"172,770","172,770",83.8,"4,440,083",25.70,Y,0,0,0,0,0,0,0,0,0,0,0,0,Flagstaff,AZ,"Flagstaff, AZ","79,842",29,19
+"Su Tran LLC , dba: Sioux Area Metro",80002,"168,000","168,000",88,"4,358,406",25.94,Y,0,0,0,0,0,0,0,0,0,0,0,0,Sioux Falls,SD,"Sioux Falls, SD","194,283",31,16
+Bloomington Public Transportation Corporation,50110,"163,788","163,788",88.29,"3,928,532",23.99,Y,0,0,0,0,0,0,0,0,0,0,0,0,Bloomington,IN,"Bloomington, IN","110,103",31,25
+STAR Transit,60114,"163,270","163,270",91,"3,242,513",19.86,Y,0,0,0,0,0,0,0,0,0,0,0,0,Terrell,TX,"Dallas--Fort Worth--Arlington, TX","5,732,354",52,47
+"University of Georgia, dba: University of Georgia Transit System",40180,"162,749","162,749",192,"3,184,570",19.57,Y,0,0,0,0,0,0,0,0,0,0,0,0,Athens,GA,"Athens-Clarke County, GA","143,213",66,58
+Ulster County,20178,"162,410","162,410",76,"2,715,042",16.72,Y,2,0,2,2,0,3,0,1,0,0,0,1,Kingston,NY,"Poughkeepsie--Newburgh, NY","314,766",30,25
+Butler County Regional Transit Authority,50157,"161,539","161,539",94,"3,498,735",21.66,Y,0,0,0,0,0,0,0,0,0,0,0,0,Hamilton,OH,"Cincinnati, OH--KY","1,686,744",36,20
+"Audubon Area Community Services, Inc.",41105,"161,087","161,087",131,"2,214,691",13.75,Y,0,0,0,0,0,0,0,0,0,0,0,0,Owensboro,KY,"Owensboro, KY","76,433",44,44
+Cache Valley Transit District,80028,"161,026","160,743",124.05,"4,008,055",24.93,Y,0,0,0,0,0,0,0,0,0,0,0,0,Logan,UT,"Logan, UT","113,927",28,21
+"Missoula Urban Transportation District, dba: Mountain Line",80009,"159,203","159,203",119.32,"4,199,489",26.38,Y,0,0,0,0,0,0,0,0,0,0,0,0,Missoula,MT,"Missoula, MT","88,109",32,20
+"City of Springfield, dba: City Utilities of Springfield, MO",70003,"158,856","158,856",77.95,"4,529,057",28.51,Y,0,0,0,0,0,0,0,0,0,0,0,0,Springfield,MO,"Springfield, MO","282,651",22,18
+"Greenville Transit Authority, dba: Greenlink",40053,"156,779","156,779",72,"3,321,238",21.18,Y,0,0,0,0,0,0,0,0,0,0,0,0,Greenville,SC,"Greenville, SC","387,271",23,17
+Greater Lynchburg Transit Company,30008,"156,516","156,516",108,"3,087,346",19.73,Y,0,0,0,0,0,0,0,0,0,0,0,0,Lynchburg,VA,"Lynchburg, VA","125,596",18,14
+Bay Metropolitan Transit Authority,50029,"156,426","156,426",79.2,"3,613,975",23.10,Y,0,0,0,0,0,0,0,0,0,0,0,0,Bay City,MI,"Bay City, MI","68,472",50,36
+"Trans-Bridge Lines, Inc.",20169,"156,293","156,293",115,"3,547,116",22.70,Y,0,0,0,0,0,0,0,0,0,0,0,0,Bethlehem,PA,"New York--Jersey City--Newark, NY--NJ","19,426,449",16,16
+"City of Waco, dba: Waco Transit System, Inc.",60012,"154,374","154,374",153.5,"2,766,843",17.92,Y,0,0,0,0,0,0,0,0,0,0,0,0,Waco,TX,"Waco, TX","192,844",31,17
+Topeka Metropolitan Transit Authority,70014,"151,977","151,977",84.4,"3,417,673",22.49,Y,0,0,0,0,0,0,0,0,0,0,0,0,Topeka,KS,"Topeka, KS","148,956",34,19
+"City of Racine, Wisconsin, dba: RYDE",50006,"148,205","148,205",82.92,"3,294,522",22.23,Y,0,0,0,0,0,0,0,0,0,0,0,0,Racine,WI,"Racine, WI","134,877",37,29
+Golden Crescent Regional Planning Commission,60095,"147,762","147,762",98,"2,576,168",17.43,Y,1,1,0,0,0,1,0,0,0,1,0,0,Victoria,TX,"Victoria, TX","65,986",35,18
+Beaver County Transit Authority,30023,"146,076","146,076",72.1,"3,596,373",24.62,Y,0,0,0,0,0,0,0,0,0,0,0,0,Rochester,PA,"Pittsburgh, PA","1,745,039",30,17
+"Metropolitan Evansville Transit System, dba: METS",50043,"145,427","145,427",88.99,"3,709,048",25.50,Y,2,0,0,0,0,2,0,0,0,0,0,0,Evansville,IN,"Evansville, IN","206,855",26,17
+"City of Huntsville, Alabama, dba: Department of Parking & Public Transit",40071,"142,377","142,377",95.34,"2,777,281",19.51,Y,0,0,0,0,0,0,0,0,0,0,0,0,Huntsville,AL,"Huntsville, AL","329,066",32,16
+The Tri-State Transit Authority,30002,"141,048","141,048",74,"3,244,351",23.00,Y,0,0,0,0,0,0,0,0,0,0,0,0,Hunnington,WV,"Huntington, WV--KY--OH","200,157",33,23
+Southeast Area Transit District,10040,"144,388","137,014",73.64,"3,404,088",24.84,Y,0,0,0,0,0,0,0,0,0,0,0,0,Preston,CT,"Norwich--New London, CT","167,432",29,17
+Gary Public Transportation Corporation,50045,"136,611","136,611",59.35,"2,551,078",18.67,Y,2,0,0,0,0,2,0,0,0,0,0,0,Gary,IN,"Chicago, IL--IN","8,671,746",22,18
+"Frederick County, Maryland, dba: TransIT Services of Frederick County",30072,"135,694","135,694",103.21,"3,924,526",28.92,Y,0,0,0,0,0,0,0,0,0,0,0,0,Frederick,MD,"Frederick, MD","176,456",36,20
+Muncie Indiana Transit System,50054,"135,254","135,254",69.75,"3,133,476",23.17,Y,0,0,0,0,0,0,0,0,0,0,0,0,Muncie,IN,"Muncie, IN","84,382",36,27
+"Orange-Newark-Elizabeth, Inc.",20166,"134,952","134,952",69.5,"3,272,917",24.25,Y,0,0,0,0,0,0,0,0,0,0,0,0,Elizabeth,NJ,"New York--Jersey City--Newark, NY--NJ","19,426,449",34,34
+"County of Placer, dba: Placer County Department of Public Works",90196,"133,226","133,226",69.35,"3,863,835",29.00,Y,0,0,0,0,0,0,0,0,0,0,0,0,Auburn,CA,"Sacramento, CA","1,946,618",45,17
+"Athens-Clarke County Unified Government, dba: Athens-Clarke County Transit Department",40047,"131,909","131,909",80.3,"2,752,148",20.86,Y,0,0,0,0,0,0,0,0,0,0,0,0,Athens,GA,"Athens-Clarke County, GA","143,213",19,16
+Casco Bay Island Transit District,10088,"131,735","131,735",126,"3,037,104",23.05,Y,0,0,0,0,0,0,0,0,0,0,0,0,Portland,ME,"Portland, ME","205,356",4,4
+University of Iowa,70019,"129,017","129,017",153.35,"2,543,289",19.71,Y,0,0,0,0,0,0,0,0,0,0,0,0,Iowa City,IA,"Iowa City, IA","126,810",28,25
+"Somerset County, dba: Somerset County Transportation",20209,"128,948","128,948",86,"3,693,432",28.64,Y,1,0,0,0,0,1,0,0,0,1,0,0,Somerville,NJ,"New York--Jersey City--Newark, NY--NJ","19,426,449",57,47
+"City of Harrisonburg, dba: Harrisonburg Department of Public Transportation",30094,"127,660","127,550",131.5,"2,821,448",22.12,Y,0,0,0,0,0,0,0,0,0,0,0,0,Harrisonburg,VA,"Harrisonburg, VA","73,377",40,33
+"City of Galveston , dba: City of Galveston Island Transit",60015,"127,391","127,391",42.5,"1,538,202",12.07,Y,3,1,0,0,0,3,3,1,0,0,0,3,Galveston,TX,"Galveston--Texas City, TX","191,863",13,6
+DeCamp Bus Lines,20161,"127,064","127,064",89,"3,512,962",27.65,Y,0,0,0,0,0,0,0,0,0,0,0,0,Montclair,NJ,"New York--Jersey City--Newark, NY--NJ","19,426,449",14,14
+"Western Piedmont Regional Transit Authority , dba: dba: Greenway Public Transportation",40172,"126,130","126,130",68.5,"2,105,233",16.69,Y,0,0,0,0,0,0,0,0,0,0,0,0,Conover,NC,"Hickory, NC","201,511",53,43
+"Adirondack Transit Lines, Inc,",20177,"123,534","123,534",73,"4,219,943",34.16,Y,0,0,0,0,0,0,0,0,0,0,0,0,Hurley,NY,"New York--Jersey City--Newark, NY--NJ","19,426,449",13,13
+"Lakeland Bus Lines, Inc.",20163,"120,544","120,544",111,"4,754,662",39.44,Y,0,0,0,0,0,0,0,0,0,0,0,0,Dover,NJ,"New York--Jersey City--Newark, NY--NJ","19,426,449",36,36
+"Bergen County, dba: Bergen County Community Transportation",20192,"119,250","119,250",86,"3,094,045",25.95,Y,0,0,0,0,0,0,0,0,0,0,0,0,Hackensack,NJ,"New York--Jersey City--Newark, NY--NJ","19,426,449",47,43
+"City of Commerce, dba: City of Commerce Municipal Buslines",90043,"118,843","118,843",79.25,"3,019,590",25.41,Y,0,0,0,0,0,0,0,0,0,0,0,0,Commerce,CA,"Los Angeles--Long Beach--Anaheim, CA","12,237,376",14,10
+City of Santa Rosa,90017,"116,485","116,485",74.56,"4,733,066",40.63,Y,0,0,0,0,0,0,0,0,0,0,0,0,Santa Rosa,CA,"Santa Rosa, CA","297,329",31,20
+Macatawa Area Express Transportation Authority,50184,"116,281","116,281",81,"2,532,980",21.78,Y,0,0,0,0,0,0,0,0,0,0,0,0,Holland,MI,"Holland, MI","107,034",19,11
+"City of Kenosha, dba: Kenosha Area Transit",50003,"114,088","114,088",80.03,"3,004,241",26.33,Y,0,0,0,0,0,0,0,0,0,0,0,0,Kenosha,WI,"Kenosha, WI","125,865",57,41
+"Transit Authority of Central Kentucky, dba: TACK Transit",40191,"113,686","113,686",81.33,"1,703,404",14.98,Y,0,0,0,0,0,0,0,0,0,0,0,0,Elizabethtown,KY,"Elizabethtown--Radcliff, KY","76,441",34,26
+Monroe County Transportation  Authority,30137,"113,543","113,543",71,"2,622,702",23.10,Y,0,0,0,0,0,0,0,0,0,0,0,0,Swiftwater,PA,Pennsylvania Non-UZA,"4,196,634",28,22
+River Bend Transit,70049,"113,486","113,486",106.78,"2,151,515",18.96,Y,0,0,0,0,0,0,0,0,0,0,0,0,Davenport,IA,"Davenport, IA--IL","285,211",35,32
+Concho Valley Transit District,60102,"111,884","111,884",113,"2,037,432",18.21,Y,0,0,0,0,0,0,0,0,0,0,0,0,San Angelo,TX,"San Angelo, TX","99,982",35,27
+"City of Columbia, dba: Go COMO",70016,"110,676","110,676",54,"2,341,820",21.16,Y,0,0,0,0,0,0,0,0,0,0,0,0,Columbia,MO,"Columbia, MO","141,831",25,13
+Williamsburg Area Transit Authority,30076,"110,194","110,194",98,"2,379,126",21.59,Y,0,0,0,0,0,0,0,0,0,0,0,0,Williamsburg,VA,"Williamsburg, VA","89,585",15,10
+Alamo Area Council of Governments,60130,"109,064","109,064",62.27,"2,284,659",20.95,Y,0,0,0,0,0,0,0,0,0,0,0,0,San Antonio,TX,"New Braunfels, TX","100,736",45,45
+"City of Yakima, dba: Yakima Transit",00006,"108,488","108,488",75,"2,978,373",27.45,Y,0,0,0,0,0,0,0,0,0,0,0,0,Yakima,WA,"Yakima, WA","133,145",44,18
+"Prince George's County, Maryland, dba: Prince George's County Transit",30085,"106,747","106,747",60.5,"2,528,823",23.69,Y,0,0,0,0,0,0,0,0,0,0,0,0,Upper Marlboro,MD,"Washington--Arlington, DC--VA--MD","5,174,759",93,28
+"City of Billings, dba: Metropolitan Transit System",80004,"104,665","104,665",54.8,"2,427,606",23.19,Y,0,0,0,0,0,0,0,0,0,0,0,0,Billings,MT,"Billings, MT","128,787",28,16
+Tahoe Transportation District,91092,"103,676","103,611",56.97,"2,655,072",25.63,Y,0,0,0,0,0,0,0,0,0,0,0,0,Stateline,NV,"Lake Tahoe, CA-NV","210,000",13,7
+"City of Cedar Rapids, dba: Cedar Rapids Transit",70008,"99,756","99,756",56.05,"2,756,585",27.63,Y,0,0,0,0,0,0,0,0,0,0,0,0,Cedar Rapids,IA,"Cedar Rapids, IA","192,844",26,22
+Great Falls Transit District,80012,"98,516","98,516",60.16,"2,019,357",20.50,Y,0,0,0,0,0,0,0,0,0,0,0,0,Great Falls,MT,"Great Falls, MT","67,097",23,13
+"City of Appleton, dba: Valley Transit",50001,"98,413","98,413",55,"2,814,530",28.60,Y,0,0,0,0,0,0,0,0,0,0,0,0,Appleton,WI,"Appleton, WI","230,967",47,21
+Cooperative Alliance for Seacoast Transportation,10086,"97,173","97,173",63,"2,683,500",27.62,Y,0,0,0,0,0,0,0,0,0,0,0,0,Dover,NH,"Dover--Rochester, NH--ME","72,391",23,12
+"City of Jackson Transportation Authority, dba: Jackson Area Transportation Authority",50034,"96,738","96,738",51,"2,746,183",28.39,Y,0,0,0,0,0,0,0,0,0,0,0,0,Jackson,MI,"Jackson, MI","84,307",18,9
+"County of Fayette, dba: Fayette Area Coordinated Transportation",30087,"95,950","95,760",45.69,"1,607,446",16.79,Y,0,0,0,0,0,0,0,0,0,0,0,0,Uniontown,PA,Pennsylvania Non-UZA,"4,196,634",26,18
+Cities Area Transit,80008,"95,449","95,449",56,"2,108,364",22.09,Y,0,0,0,0,0,0,0,0,0,0,0,0,Grand Forks,ND,"Grand Forks, ND--MN","68,160",22,11
+"City of Waukesha , dba: Waukesha Metro Transit",50096,"95,749","95,365",51.4,"2,569,916",26.95,Y,0,0,0,0,0,0,0,0,0,0,0,0,Waukesha,WI,"Milwaukee, WI","1,306,795",32,15
+"City of Green Bay, dba: Green Bay Metro",50002,"95,150","94,160",39,"2,664,234",28.29,Y,0,0,0,0,0,0,0,0,0,0,0,0,Green Bay,WI,"Green Bay, WI","224,156",27,15
+"Spartanburg Regional Health Services, Inc.",40244,"91,653","91,653",53.73,"2,109,312",23.01,Y,0,0,0,0,0,0,0,0,0,0,0,0,Spartanburg,SC,"Spartanburg, SC","196,943",26,26
+"Senior Citizens United Community Services of Camden County, Inc.",20204,"89,326","89,326",51,"1,864,966",20.88,Y,0,0,0,0,0,0,0,0,0,0,0,0,Audubon,NJ,"Philadelphia, PA--NJ--DE--MD","5,696,125",47,47
+"City of La Crosse, dba: LaCrosse Municipal Transit Utility",50004,"88,803","88,636",58,"2,737,053",30.88,Y,0,0,0,0,0,0,0,0,0,0,0,0,La Crosse,WI,"La Crosse, WI--MN","98,872",26,16
+"Lake Erie Transportation Commission, dba: Lake Erie Transit",50522,"87,501","87,501",78.15,"1,977,239",22.60,Y,0,0,0,0,0,0,0,0,0,0,0,0,,MI,"Monroe, MI","57,260",21,13
+Ohio Valley Regional Transportation Authority,30035,"87,113","87,113",47,"1,935,781",22.22,Y,0,0,0,0,0,0,0,0,0,0,0,0,Wheeling,WV,"Wheeling, WV--OH","57,695",17,14
+"Licking County, Ohio, dba: Licking County Transit Board",50163,"86,757","86,757",49,"1,420,038",16.37,Y,0,0,0,0,0,0,0,0,0,0,0,0,Newark,OH,"Newark, OH","81,223",18,18
+"Town of Huntington, dba: Huntington Area Rapid Transit",20071,"85,270","85,270",50.55,"3,038,096",35.63,Y,0,0,0,0,0,0,0,0,0,0,0,0,Huntington,NY,"New York--Jersey City--Newark, NY--NJ","19,426,449",18,10
+"City of Iowa City, dba: Iowa City Transit",70018,"84,963","84,963",48.65,"2,508,411",29.52,Y,0,0,0,0,0,0,0,0,0,0,0,0,Iowa City,IA,"Iowa City, IA","126,810",21,21
+"City of Wilsonville, dba: South Metro Area Regional Transit",00046,"83,698","83,440",45.5,"2,736,951",32.80,Y,0,0,0,0,0,0,0,0,0,0,0,0,Wilsonville,OR,"Portland, OR--WA","2,104,238",19,13
+"M-1 Rail, dba: QLINE Detroit",50213,"83,289","83,289",41.04,"2,297,990",27.59,Y,0,0,0,0,0,0,0,0,0,0,0,0,Detroit,MI,"Detroit, MI","3,776,890",4,4
+County of Lebanon Transit Authority,30095,"83,238","83,238",40,"1,877,905",22.56,Y,0,0,0,0,0,0,0,0,0,0,0,0,Lebanon,PA,"Lebanon, PA","75,485",24,12
+"City of Clemson, dba: Clemson Area Transit",40208,"82,626","82,626",55,"1,452,104",17.57,Y,0,0,0,0,0,0,0,0,0,0,0,0,Clemson,SC,"Anderson--Clemson, SC","118,369",18,18
+"Altoona Metro Transit, dba: AMTRAN",30011,"81,194","81,194",47,"2,461,287",30.31,Y,0,0,0,0,0,0,0,0,0,0,0,0,Altoona,PA,"Altoona, PA","74,426",33,20
+Santee Wateree Regional Transportation Authority,40100,"77,800","77,800",47.25,"1,149,327",14.77,Y,0,0,0,0,0,0,0,0,0,0,0,0,Sumter,SC,"Sumter, SC","68,825",43,32
+"City of Albany , dba: Albany Transit System",40021,"76,146","76,146",38.99,"1,467,854",19.28,Y,0,0,0,0,0,0,0,0,0,0,0,0,,GA,"Albany, GA","85,960",15,11
+Monsey New Square Trails Corporation,20135,"75,892","75,892",46,"1,750,080",23.06,Y,0,0,0,0,0,0,0,0,0,0,0,0,Spring Valley,NY,"New York--Jersey City--Newark, NY--NJ","19,426,449",32,32
+Central Oregon Intergovernmental Council,00057,"75,501","75,501",53.72,"2,616,990",34.66,Y,0,0,0,0,0,0,0,0,0,0,0,0,Bend,OR,"Bend, OR","106,988",41,12
+"City of Pueblo, dba: Pueblo Transit",80007,"75,208","75,208",38,"1,871,435",24.88,Y,0,0,0,0,0,0,0,0,0,0,0,0,Pueblo,CO,"Pueblo, CO","120,642",27,14
+"City of Terre Haute , dba: Terre Haute Transit Utility",50053,"74,671","74,671",36.6,"1,545,970",20.70,Y,0,0,0,0,0,0,0,0,0,0,0,0,Terre Haute,IN,"Terre Haute, IN","79,862",10,8
+"Knoxville-Knox County Community Action Committee, dba: Knox County CAC Transit",40171,"72,959","72,959",44,"1,572,266",21.55,Y,0,0,0,0,0,0,0,0,0,0,0,0,Knoxville,TN,"Knoxville, TN","597,257",30,30
+"City of Fairfax, dba: CUE Bus",30058,"72,798","72,798",49.82,"2,331,719",32.03,Y,0,0,0,0,0,0,0,0,0,0,0,0,Fairfax,VA,"Washington--Arlington, DC--VA--MD","5,174,759",8,8
+Delaware County Transit Board,50199,"71,476","71,476",63,"1,818,912",25.45,Y,0,0,0,0,0,0,0,0,0,0,0,0,Delaware,OH,"Columbus, OH","1,567,254",21,21
+"City of Rome , dba: City of Rome Transit Department",40058,"71,165","71,165",38.75,"1,399,589",19.67,Y,0,0,0,0,0,0,0,0,0,0,0,0,Rome,GA,"Rome, GA","60,403",12,6
+City of Kokomo,50145,"70,216","70,216",42.39,"1,307,432",18.62,Y,0,0,0,0,0,0,0,0,0,0,0,0,Kokomo,IN,"Kokomo, IN","62,576",31,26
+"City of Eau Claire, dba: Eau Claire Transit",50099,"69,586","69,586",42,"2,303,253",33.10,Y,0,0,0,0,0,0,0,0,0,0,0,0,Eau Claire,WI,"Eau Claire, WI","105,475",42,16
+West Virginia University - Morgantown Personal Rapid Transit,30107,"68,483","68,483",38.9,"1,603,221",23.41,Y,0,0,0,0,0,0,0,0,0,0,0,0,Morgantown,WV,"Morgantown, WV","77,620",48,48
+Jackson Transit Authority,40057,"67,941","67,941",34,"1,605,005",23.62,Y,0,0,0,0,0,0,0,0,0,0,0,0,Jackson,TN,"Jackson, TN","72,809",17,11
+"City of Sioux City, dba: Sioux City Transit System",70012,"67,656","67,656",41.5,"1,880,040",27.79,Y,0,0,0,0,0,0,0,0,0,0,0,0,Sioux City,IA,"Sioux City, IA--NE--SD","113,066",25,17
+Mecklenburg County,40228,"67,581","67,581",45,"1,928,524",28.54,Y,0,0,0,0,0,0,0,0,0,0,0,0,Charlotte,NC,"Charlotte, NC--SC","1,379,873",88,21
+"Western Maine Transportation Services, Inc.",10098,"67,264","67,264",61.6,"1,670,688",24.84,Y,0,0,0,0,0,0,0,0,0,0,0,0,Auburn,ME,"Lewiston, ME","60,743",41,20
+"Baldwin County Commission, dba: Baldwin Regional Area Transit System",40928,"66,607","66,607",43.84,"1,173,266",17.61,Y,0,0,0,0,0,0,0,0,0,0,0,0,Bay Minette,AL,"Fairhope--Daphne, AL","76,807",30,30
+Medina County Public Transit,50198,"64,454","64,454",44.43,"1,118,424",17.35,Y,0,0,0,0,0,0,0,0,0,0,0,0,Medina,OH,"Cleveland, OH","1,712,178",23,11
+County of Atlantic,20199,"63,019","63,019",45,"1,510,092",23.96,Y,0,0,0,0,0,0,0,0,0,0,0,0,Atlantic City,NJ,"Atlantic City--Ocean City--Villas, NJ","294,921",33,33
+City of Glendale,90034,"62,576","62,576",41.79,"1,351,148",21.59,Y,0,0,0,0,0,0,0,0,0,0,0,0,Glendale,AZ,"Phoenix--Mesa--Scottsdale, AZ","3,976,313",18,15
+"Lafayette City-Parish Consolidated Government, dba: Lafayette Transit System",60038,"62,335","62,335",35.6,"1,333,583",21.39,Y,1,0,1,1,0,1,0,0,0,0,0,0,Lafayette,LA,"Lafayette, LA","227,316",19,11
+City of Long Beach,20006,"57,090","57,090",31,"1,970,455",34.51,Y,0,0,0,0,0,0,0,0,0,0,0,0,Long Beach,NY,"New York--Jersey City--Newark, NY--NJ","19,426,449",7,5
+"Heart of Iowa Regional Transit Agency, dba: HIRTA",70066,"57,064","57,064",58,"924,454",16.20,Y,0,0,0,0,0,0,0,0,0,0,0,0,Urbandale,IA,"Ames, IA","66,342",21,21
+Rio Metro Regional Transit District,60111,"57,040","57,040",47,"2,427,721",42.56,Y,0,0,0,0,0,0,0,0,0,0,0,0,Albuquerque,NM,"Albuquerque, NM","769,837",61,23
+"County of Rockland , dba: Public Transportation - Transport of Rockland",20084,"56,776","56,776",59,"2,380,041",41.92,Y,0,0,0,0,0,0,0,0,0,0,0,0,New City,NY,"New York--Jersey City--Newark, NY--NJ","19,426,449",53,19
+City of Riverside,90086,"55,779","55,779",34,"1,070,959",19.20,Y,0,0,0,0,0,0,0,0,0,0,0,0,Riverside,CA,"Riverside--San Bernardino, CA","2,276,703",15,15
+"County of Johnson, Iowa, dba: Johnson County SEATS",70045,"54,865","54,865",42.38,"1,354,802",24.69,Y,0,0,0,0,0,0,0,0,0,0,0,0,Iowa City,IA,"Iowa City, IA","126,810",17,17
+"LINK Hendricks County, dba: Hendricks and Morgan County Connect",50342,"54,329","54,329",69.2,"803,869",14.80,Y,0,0,0,0,0,0,0,0,0,0,0,0,Danville,IN,"Indianapolis, IN","1,699,881",23,23
+RiverCities Transit,00016,"53,082","53,082",36.14,"1,472,003",27.73,Y,0,0,0,0,0,0,0,0,0,0,0,0,Longview,WA,"Longview, WA--OR","69,841",21,10
+Milford Transit District,10107,"51,095","51,095",31,"1,113,089",21.78,Y,0,0,0,0,0,0,0,0,0,0,0,0,Milford,CT,"Bridgeport--Stamford, CT--NY","916,408",11,6
+"California Vanpool Authority, dba: CalVans",90230,"47,702","47,702",29,"1,291,015",27.06,Y,0,0,0,0,0,0,0,0,0,0,0,0,Hanford,CA,"Hanford, CA","66,638",758,758
+"City of Arlington, dba: Arlington Transportation",60041,"46,544","46,544",28,"1,250,849",26.87,Y,0,0,0,0,0,0,0,0,0,0,0,0,Arlington,TX,"Dallas--Fort Worth--Arlington, TX","5,732,354",106,11
+"North Central Alabama Regional Council of Governments, dba: NARCOG Regional Transit Agency",40265,"46,477","46,477",36,"711,242",15.30,Y,0,0,0,0,0,0,0,0,0,0,0,0,Decatur,AL,"Decatur, AL","60,458",28,28
+Jackson County Mass Transit District,50204,"45,229","45,229",27,"933,976",20.65,Y,0,0,0,0,0,0,0,0,0,0,0,0,Carbondale,IL,Illinois Non-UZA,"2,638,201",19,19
+"Cape Fear Public Transportation Authority, dba: Wave Transit",40006,"45,061","45,061",53,"1,379,718",30.62,Y,0,0,0,0,0,0,0,0,0,0,0,0,Wilmington,NC,"Wilmington, NC","255,329",43,19
+"Paratransit, Inc.",90223,"44,906","44,906",29.98,"691,709",15.40,Y,0,0,0,0,0,0,0,0,0,0,0,0,Sacramento,CA,"Sacramento, CA","1,946,618",18,18
+Plaquemines Port Harbor Terminal District,60276,"42,741","42,741",28,"1,272,657",29.78,Y,0,0,0,0,0,0,0,0,0,0,0,0,Belle Chasse,LA,"New Orleans, LA","963,212",2,2
+McKinney Avenue Transit Authority,60133,"40,147","40,147",23,"867,982",21.62,Y,0,0,0,0,0,0,0,0,0,0,0,0,Dallas,TX,"Dallas--Fort Worth--Arlington, TX","5,732,354",4,4
+Northwest Alabama Council of Local Governments,40068,"39,862","39,862",30,"599,577",15.04,Y,0,0,0,0,0,0,0,0,0,0,0,0,Muscle Shoals,AL,"Florence, AL","78,925",28,21
+"Board of  Clermont County Commissioners, dba: Clermont Transportation Connection",50166,"39,782","39,782",19.7,"767,962",19.30,Y,0,0,0,0,0,0,0,0,0,0,0,0,Batavia,OH,"Cincinnati, OH--KY","1,686,744",36,11
+"City of Loveland, Colorado, dba: City of Loveland Transit",80025,"35,491","35,491",19.6,"790,396",22.27,Y,0,0,0,0,0,0,0,0,0,0,0,0,Loveland,CO,"Fort Collins, CO","326,332",9,6
+Valley Transit District,10042,"33,665","33,665",26,"785,237",23.33,Y,0,0,0,0,0,0,0,0,0,0,0,0,Derby,CT,"Bridgeport--Stamford, CT--NY","916,408",12,12
+"City of Coralville, dba: Coralville Transit System",70030,"27,387","27,387",23,"772,670",28.21,Y,0,0,0,0,0,0,0,0,0,0,0,0,Coralville,IA,"Iowa City, IA","126,810",7,7
+The Woodlands Township,60134,"25,305","25,305",16.9,"659,523",26.06,Y,0,0,0,0,0,0,0,0,0,0,0,0,Spring,TX,"The Woodlands--Conroe, TX","402,454",29,4
+"Bay State LLC, dba: Bay State Cruise Company",11238,"23,563","23,563",20.5,"989,176",41.98,Y,0,0,0,0,0,0,0,0,0,0,0,0,Boston,MA,"Boston, MA--NH","4,382,009",3,3
+"City of Peoria , dba: Peoria Transit",90140,"20,359","20,359",12.2,"526,697",25.87,Y,0,0,0,0,0,0,0,0,0,0,0,0,Peoria,AZ,"Phoenix--Mesa--Scottsdale, AZ","3,976,313",6,6
+"University of Montana, dba: UDASH",80107,"15,525","14,538",33.02,"267,875",18.43,Y,0,0,0,0,0,0,0,0,0,0,0,0,Missoula,MT,"Missoula, MT","88,109",3,3
+"Ada County Highway District, dba: ACHD Commuteride",00415,"12,041","12,041",6.7,"248,204",20.61,Y,0,0,0,0,0,0,0,0,0,0,0,0,Boise,ID,"Boise City, ID","433,180",81,81
+"County of Douglas, dba: Connect Douglas",40082,"11,827","11,827",5.99,"570,906",48.27,Y,1,0,0,0,0,1,0,0,0,0,0,0,Douglasville,GA,"Atlanta, GA","5,100,112",16,6
+Madison County Transit District,50146,"8,035","8,035",5,"199,626",24.84,Y,0,0,0,0,0,0,0,0,0,0,0,0,Pontoon Beach,IL,"St. Louis, MO--IL","2,156,323",117,30
+University of Minnesota Transit,50515,"7,109","7,109",8,"189,035",26.59,Y,0,0,0,0,0,0,0,0,0,0,0,0,Minneapolis,MN,"Minneapolis--St. Paul, MN","2,914,866",22,3
+Kentuckiana Regional Planning and Development Agency,40196,"5,406","5,406",2.97,"152,989",28.30,Y,0,0,0,0,0,0,0,0,0,0,0,0,Louisville,KY,"Louisville/Jefferson County, KY--IN","974,397",30,30
+North County Transit District,90030,"4,313","4,306",141.41,"11,090,156","2,575.51",Y,0,0,0,0,0,0,0,0,0,0,0,0,Oceanside,CA,"San Diego, CA","3,070,300",231,30
+Piedmont Authority for Regional Transportation,40173,"4,065","4,065",3.25,"992,209",244.09,Y,0,0,0,0,0,0,0,0,0,0,0,0,Greensboro,NC,"Greensboro, NC","338,928",44,21
+Chicago Water Taxi (Wendella),50521,"2,602","2,602",17,"129,247",49.67,Y,0,0,0,0,0,0,0,0,0,0,0,0,Chicago,IL,"Chicago, IL--IN","8,671,746",2,2
+"North Front Range Transportation and Air Quality Planning Council, dba: North Front Range MPO / VanGo",80106,"2,573","2,573",4,"99,075",38.51,Y,0,0,0,0,0,0,0,0,0,0,0,0,Fort Collins,CO,"Fort Collins, CO","326,332",32,32
+"Charlotte County Government, dba: Charlotte County Transit Division",40129,"2,368","2,368",2.13,"770,242",325.27,Y,0,0,0,0,0,0,0,0,0,0,0,0,Port Charlotte,FL,"Port Charlotte--North Port, FL","199,998",17,4
+"City of Colorado Springs, dba: Mountain Metropolitan Transit",80005,"2,093","2,093",1.17,"3,645,789","1,741.90",Y,0,0,0,0,0,0,0,0,0,0,0,0,Colorado Springs,CO,"Colorado Springs, CO","632,494",95,7
+The Transportation Management Association Group,40178,423,423,0.21,"14,329",33.87,Y,0,0,0,0,0,0,0,0,0,0,0,0,Franklin,TN,"Nashville-Davidson, TN","1,158,642",38,38
