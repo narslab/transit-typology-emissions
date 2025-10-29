@@ -14,6 +14,9 @@ The project integrates kernel principal component analysis (kPCA), Gaussian mixt
 - Estimate **system-level and national transit emissions** on a well-to-wheel (WTW) basis.  
 - Simulate **fleet electrification** and **grid decarbonization** scenarios to assess maximum potential reductions.
 
+  <img width="4777" height="1387" alt="framework_diagram-v02" src="https://github.com/user-attachments/assets/b4bfc2e1-7a05-4054-96ec-0220cb60436d" />
+
+
 ---
 
 ## Repository Contents
